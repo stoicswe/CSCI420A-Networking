@@ -1,0 +1,11 @@
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\bin\Debug\netcoreapp2.0\CircleWebHost.deps.json
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\bin\Debug\netcoreapp2.0\CircleWebHost.runtimeconfig.json
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\bin\Debug\netcoreapp2.0\CircleWebHost.runtimeconfig.dev.json
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\bin\Debug\netcoreapp2.0\CircleWebHost.dll
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\bin\Debug\netcoreapp2.0\CircleWebHost.pdb
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\obj\Debug\netcoreapp2.0\CircleWebHost.csprojResolveAssemblyReference.cache
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\obj\Debug\netcoreapp2.0\CircleWebHost.csproj.CoreCompileInputs.cache
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\obj\Debug\netcoreapp2.0\CircleWebHost.AssemblyInfoInputs.cache
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\obj\Debug\netcoreapp2.0\CircleWebHost.AssemblyInfo.cs
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\obj\Debug\netcoreapp2.0\CircleWebHost.dll
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\CircleWebHost\CircleWebHost\obj\Debug\netcoreapp2.0\CircleWebHost.pdb
