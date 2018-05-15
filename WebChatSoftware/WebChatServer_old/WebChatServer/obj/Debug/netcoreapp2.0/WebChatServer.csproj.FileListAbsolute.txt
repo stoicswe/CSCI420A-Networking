@@ -1,0 +1,22 @@
+/home/cslab/WebChatServer/WebChatServer/bin/Debug/netcoreapp2.0/WebChatServer.deps.json
+/home/cslab/WebChatServer/WebChatServer/bin/Debug/netcoreapp2.0/WebChatServer.runtimeconfig.json
+/home/cslab/WebChatServer/WebChatServer/bin/Debug/netcoreapp2.0/WebChatServer.runtimeconfig.dev.json
+/home/cslab/WebChatServer/WebChatServer/bin/Debug/netcoreapp2.0/WebChatServer.dll
+/home/cslab/WebChatServer/WebChatServer/bin/Debug/netcoreapp2.0/WebChatServer.pdb
+/home/cslab/WebChatServer/WebChatServer/obj/Debug/netcoreapp2.0/WebChatServer.csprojResolveAssemblyReference.cache
+/home/cslab/WebChatServer/WebChatServer/obj/Debug/netcoreapp2.0/WebChatServer.csproj.CoreCompileInputs.cache
+/home/cslab/WebChatServer/WebChatServer/obj/Debug/netcoreapp2.0/WebChatServer.AssemblyInfoInputs.cache
+/home/cslab/WebChatServer/WebChatServer/obj/Debug/netcoreapp2.0/WebChatServer.AssemblyInfo.cs
+/home/cslab/WebChatServer/WebChatServer/obj/Debug/netcoreapp2.0/WebChatServer.dll
+/home/cslab/WebChatServer/WebChatServer/obj/Debug/netcoreapp2.0/WebChatServer.pdb
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\bin\Debug\netcoreapp2.0\WebChatServer.deps.json
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\bin\Debug\netcoreapp2.0\WebChatServer.runtimeconfig.json
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\bin\Debug\netcoreapp2.0\WebChatServer.runtimeconfig.dev.json
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\bin\Debug\netcoreapp2.0\WebChatServer.dll
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\bin\Debug\netcoreapp2.0\WebChatServer.pdb
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\obj\Debug\netcoreapp2.0\WebChatServer.csprojResolveAssemblyReference.cache
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\obj\Debug\netcoreapp2.0\WebChatServer.csproj.CoreCompileInputs.cache
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\obj\Debug\netcoreapp2.0\WebChatServer.AssemblyInfoInputs.cache
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\obj\Debug\netcoreapp2.0\WebChatServer.AssemblyInfo.cs
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\obj\Debug\netcoreapp2.0\WebChatServer.dll
+G:\GoogleDrive\ProgrammingDevelopment\Houghton College Classwork\Networking\WebChatSoftware\WebChatServer\WebChatServer\obj\Debug\netcoreapp2.0\WebChatServer.pdb

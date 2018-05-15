@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <meta http-equiv='X-UA-Compatible' content='ie=edge'>
+    <title>Document</title>
+</head>
+<body>
+    <div id='log'></div>
+    <script>
+        logE = function() { return document.getElementById('log'); };
+        log = function(s) {
+            var p = document.createElement('p');
+            p.appendChild(document.createTextNode(s));
+            logE().appendChild(p);
+        };
+        var ws = new WebSocket('ws://' + window.location.host + '/ws', ['issues']);
+        ws.onopen = function(e) { log('Connection Open.'); };
+        ws.onmessage = function(evt) { log(evt.data); };
+        ws.onclose = function(evt) { log('Connection closed.'); };
+        function newIssue(e) {
+            if (e.preventDefault) e.preventDefault();
+            ws.send('new: ' + document.getElementById(wsissue).value);
+            return false
+        }
+    </script>
+</body>
+</html>

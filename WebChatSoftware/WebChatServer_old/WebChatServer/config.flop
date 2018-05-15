@@ -1,0 +1,12 @@
+﻿#Welcome to FLOPS, the WebChat Server software
+#This is the configuration file
+
+#set the verbose option
+verbose=true
+
+#set the port number
+port=8080
+
+#set the default directory
+#example: C:\MywebServer\
+NULL
