@@ -1,0 +1,5 @@
+/Users/nathanbunch/Google Drive/Programming and Development/Houghton College Classwork/Networking/RayTracerMasterClient/RayTracerMasterClient/bin/Debug/RayTracerMasterClient.exe
+/Users/nathanbunch/Google Drive/Programming and Development/Houghton College Classwork/Networking/RayTracerMasterClient/RayTracerMasterClient/bin/Debug/RayTracerMasterClient.pdb
+/Users/nathanbunch/Google Drive/Programming and Development/Houghton College Classwork/Networking/RayTracerMasterClient/RayTracerMasterClient/obj/x86/Debug/RayTracerMasterClient.csproj.CoreCompileInputs.cache
+/Users/nathanbunch/Google Drive/Programming and Development/Houghton College Classwork/Networking/RayTracerMasterClient/RayTracerMasterClient/obj/x86/Debug/RayTracerMasterClient.exe
+/Users/nathanbunch/Google Drive/Programming and Development/Houghton College Classwork/Networking/RayTracerMasterClient/RayTracerMasterClient/obj/x86/Debug/RayTracerMasterClient.pdb

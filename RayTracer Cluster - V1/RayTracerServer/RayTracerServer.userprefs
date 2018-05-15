@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E31736D9-2427-415F-9EC4-C25FD068BEB5}|Default">
+  <MonoDevelop.Ide.ItemProperties.RayTracerServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RayTracerServer/Program.cs">
+    <Files>
+      <File FileName="RayTracerServer/Program.cs" Line="47" Column="49" />
+      <File FileName="RayTracerServer/RayTracer.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
