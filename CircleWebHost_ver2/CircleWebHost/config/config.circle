@@ -1,0 +1,33 @@
+﻿#========== Default Configuration File ==========
+#
+# This is the file used to sonfigure the default
+# settings for the CircleWebHost software
+#
+#
+#set the default port number to listen on
+port = 8080
+
+# set the default website index file
+webindex = ./website/index.html
+
+#set the default local directory
+local = ./webserver/
+
+#set the website directory
+wb = ./webserver/website/
+
+#set the default database directory
+db = ./database/
+
+#set the default virtual directory service
+vds = true
+fif = config/virtualdiskservice.circle
+
+#verbitose setting (FULL, WARN, OFF)
+verb = FULL
+
+#HTML document settings
+htmlver = 5.0
+
+#HTTP version
+httpver = 1.1
