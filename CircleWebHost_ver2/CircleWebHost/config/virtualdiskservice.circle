@@ -1,0 +1,8 @@
+#This is the config for the virtual disk service
+/home.xyz;/pages/home.html
+/about.xyz;/pages/about.html
+/issues.xyz;/generate
+#Idk if i will use a login function yet
+#/login.xyz;/pages/login.html
+/postissue.xyz;/action
+generalstyle.xyz;/styles/pure-min.css
