@@ -1,0 +1,47 @@
+===================README FILE========================
+
+RayTracer Software
+Version 1.5
+Written in C#
+
+PURPOSE
+
+The purpose of the RayTracer software presented here is
+to process the complex calculation of ray tracing pixels
+over a distributed computer cluster. The final product is
+collected on the designated "client" computer, which takes
+a ".scene" render file.
+
+PREREQUISITS
+
+Dotnet Core: [https://www.microsoft.com/net/learn/get-started].
+List all server names or IP in the SERVER_LIST file.
+
+HOW TO USE
+
+First, one must distribute the server software to all the server
+machines on the network. Go to the path where the server files are
+located and execute the command: [dotnet run]. This will compile and
+run the software for the machine (if you wish to publish the software
+just run [dotnet publish] and the built program will be in 
+./Bin/Debug/dotnetapp2.0/*).
+
+Once the server(s) are running, goto the path where the ray tracer client
+is located. Once there, execute the command [dotnet run default.scene SERVER_LIST].
+You may change the default.scene file or use whatever ".scene" file, as long as it
+follows the correct format (see "default.scene").
+
+The client software will proceed to copy the scene data to all the server machine(s).
+Afterwards, you should see a percent amount, a pixel count, and three floating point
+numbers (there is a 'D' number also,that is duplicated data, which is used for diagnosis
+only). Ex: 24.567% 129000px [R: 23.535432 0.000000 2.545754]  D: 0
+
+When the render is completed, the client will respond with the phrase "I am finished, my master."
+The finished render images will be in the ./render folder. The client automatically ouputs a
+render every so often, so that you can see the progress being made.
+
+CONTRIBUTIONS
+
+John Kalaf - Server Software
+Nathan Bunch - Client Software
+Linzhuo Bai - Product Management

@@ -1,0 +1,22 @@
+Group Names: John Khalaf, Nathaniel Bunch, Linzhuo Bai.
+Does your project achieve any speedup? How much? How little? Describe your methods for measuring the speedup.
+    .In the experimental version, the project does have a speedup, for the beginning 92.5%, after that amount, it becomes slow.
+    After the 92.5%, the software hangs, becuase the pixel work being distributed is sent out one pixel at a time, for reasons
+    we are currently unsure about.
+
+    .The methods we use for measuring speedup, it by clocking the speed at which the original processed, versus the distributed
+    version of the software. The speedup % was about 5x increase in speeds. It took appoximately 8s to complete 50% of the work
+    whereas it took 30s for 50% of the work on the older software.
+
+Is your solution correct? Will it always give the same result as the sequential version of the ray tracer?
+
+	.The solution we produced is correct. The only issue is the percent aftert the 92.5% that is the problem. This is caused
+    by packet loss over the network, due to so many submits of the data by the servers to the client.
+
+Is your solution robust to failure? What kinds of failure can it handle? How much failure can it handle? How much does failure slow down the computation?
+
+    .The only kind of failure the software can handle is the disconnect and reconnect of a server, or a complete server disconnect (shutdown).
+    The software will not handle a server reconnecting after a shutdown had been initiated (this is a future fix that we hope to implement).
+    
+    .The failure of a disconnect/reconnect of a server is not a ver hard impact on the computation, as it would only leave large gaps in the
+    final render (which is good, the larger the gaps the faster the computation).
