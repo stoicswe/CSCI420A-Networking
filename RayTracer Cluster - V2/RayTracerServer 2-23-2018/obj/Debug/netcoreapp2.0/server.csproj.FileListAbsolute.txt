@@ -1,0 +1,10 @@
+/home/cslab/RayTracer/obj/Debug/netcoreapp2.0/server.csproj.CoreCompileInputs.cache
+/home/cslab/RayTracer/obj/Debug/netcoreapp2.0/server.AssemblyInfoInputs.cache
+/home/cslab/RayTracer/obj/Debug/netcoreapp2.0/server.AssemblyInfo.cs
+/home/cslab/RayTracer/bin/Debug/netcoreapp2.0/server.deps.json
+/home/cslab/RayTracer/bin/Debug/netcoreapp2.0/server.runtimeconfig.json
+/home/cslab/RayTracer/bin/Debug/netcoreapp2.0/server.runtimeconfig.dev.json
+/home/cslab/RayTracer/bin/Debug/netcoreapp2.0/server.dll
+/home/cslab/RayTracer/bin/Debug/netcoreapp2.0/server.pdb
+/home/cslab/RayTracer/obj/Debug/netcoreapp2.0/server.dll
+/home/cslab/RayTracer/obj/Debug/netcoreapp2.0/server.pdb
